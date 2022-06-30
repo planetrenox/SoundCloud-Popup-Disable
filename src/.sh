@@ -1,0 +1,1 @@
+zip -r ../dist/$(date +%Y-%m-%d).zip .
